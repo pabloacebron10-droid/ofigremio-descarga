@@ -10,8 +10,8 @@ Descarga el paquete oficial correspondiente a tu sistema operativo (archivos lim
 
 | Sistema Operativo | Paquete | Enlace de Descarga Directa |
 |---|---|---|
-| **Windows 10 / 11** | `OfiGremio_PRO_v4.2.1_Windows.zip` | [⬇️ **Descargar para Windows**](https://github.com/pabloacebron10-droid/ofigremio-app/releases/latest/download/OfiGremio_PRO_v4.2.1_Windows.zip) |
-| **Linux (Ubuntu, Debian, Mint...)** | `OfiGremio_PRO_v4.2.1_Linux.zip` | [⬇️ **Descargar para Linux**](https://github.com/pabloacebron10-droid/ofigremio-app/releases/latest/download/OfiGremio_PRO_v4.2.1_Linux.zip) |
+| **Windows 10 / 11** | `OfiGremio_PRO_v4.2.1_Windows.zip` | [⬇️ **Descargar para Windows**](https://github.com/pabloacebron10-droid/ofigremio-descarga/releases/latest/download/OfiGremio_PRO_v4.2.1_Windows.zip) |
+| **Linux (Ubuntu, Debian, Mint...)** | `OfiGremio_PRO_v4.2.1_Linux.zip` | [⬇️ **Descargar para Linux**](https://github.com/pabloacebron10-droid/ofigremio-descarga/releases/latest/download/OfiGremio_PRO_v4.2.1_Linux.zip) |
 
 *(Tamaño de descarga: **0.32 MB** · Instalación en menos de 1 minuto).*
 
@@ -61,5 +61,6 @@ OfiGremio PRO funciona bajo una suscripción recurrente mensual accesible de **1
 
 ## 📞 Soporte y Contacto
 Para dudas de instalación, soporte técnico o asistencia personalizada:
-- **Web Oficial:** [OfiGremio PRO](https://github.com/pabloacebron10-droid/ofigremio-app)
+- **Web Oficial:** [OfiGremio PRO](https://github.com/pabloacebron10-droid/ofigremio-descarga)
 - **Email:** contacto@ofigremio.es
+
