@@ -1,66 +1,44 @@
-# OfiGremio PRO v4.2.1 ⚡🔧
-> **Software de Gestión Local-First para Gremios, Instaladores y Empresas de Reformas**  
-> Fontanería · Electricidad · Climatización · Cerrajería · Albañilería · Reformas Integrales
+# OfiGremio · acceso a la aplicación
 
----
+**[Abrir OfiGremio en la nube](https://ofigremio-production.up.railway.app)**
 
-## 📥 Descargas Oficiales
+La aplicación actual se utiliza desde el navegador del ordenador, móvil o tablet.
+No necesitas descargar los ZIP antiguos, instalar Python ni arrancar un servidor
+en tu ordenador para acceder a la versión cloud.
 
-Descarga el paquete oficial correspondiente a tu sistema operativo (archivos limpios, ligeros y listos para usar):
+## Añadir un acceso a tu dispositivo
 
-| Sistema Operativo | Paquete | Enlace de Descarga Directa |
-|---|---|---|
-| **Windows 10 / 11** | `OfiGremio_PRO_v4.2.1_Windows.zip` | [⬇️ **Descargar para Windows**](https://github.com/pabloacebron10-droid/ofigremio-descarga/raw/master/OfiGremio_PRO_v4.2.1_Windows.zip) |
-| **Linux (Ubuntu, Debian, Mint...)** | `OfiGremio_PRO_v4.2.1_Linux.zip` | [⬇️ **Descargar para Linux**](https://github.com/pabloacebron10-droid/ofigremio-descarga/raw/master/OfiGremio_PRO_v4.2.1_Linux.zip) |
+1. Abre el enlace de OfiGremio y utiliza tu cuenta de empresa.
+2. Si tu navegador ofrece «Instalar aplicación» o «Añadir a pantalla de inicio»,
+   puedes crear un acceso directo desde ese menú.
+3. En iPhone/iPad, abre la app en Safari y utiliza Compartir → Añadir a pantalla
+   de inicio. En Android, utiliza el menú del navegador compatible.
 
-*(Tamaño de descarga: **0.32 MB** · Instalación en menos de 1 minuto).*
+Ese acceso abre la versión web; no instala la antigua edición local. La capacidad
+sin conexión depende de las funciones implementadas y validadas en cada versión.
+No se promete funcionamiento completo sin red ni sincronización automática de
+instalaciones antiguas.
 
----
+## Datos y descargas anteriores
 
-## 🚀 Puesta en Marcha Rápida (3 Pasos)
+La edición cloud usa servicios de servidor y almacenamiento configurados para la
+plataforma. Ya no corresponde describirla como «0 % de datos en servidores ajenos».
+La conexión de almacenamiento no sustituye una política de backups y recuperación.
 
-### En Windows:
-1. **Descarga** el archivo `OfiGremio_PRO_v4.2.1_Windows.zip` y descomprímelo en tu ordenador (por ejemplo en `C:\OfiGremio` o en tu carpeta de Documentos).
-2. Entra en la carpeta y haz doble clic sobre:  
-   👉 **`1_INSTALAR_PRIMERA_VEZ.bat`**  
-   *(Configura el entorno automáticamente y te crea el icono oficial en tu Escritorio).*
-3. Para el uso diario, abre el programa desde el acceso directo de tu Escritorio o haciendo doble clic en **`2_ABRIR_OFIGREMIO.bat`**.
+Los ZIP 4.2.1 de este repositorio se conservan como **archivo de la edición local**,
+publicada antes de la arquitectura cloud. No representan la versión actual, no se
+recomiendan para dar de alta nuevos usuarios SaaS y no se conectan automáticamente
+a tu cuenta cloud. Consulta [el archivo de la edición local](LEGACY_LOCAL.md) si
+necesitas identificar una instalación existente.
 
-### En Linux:
-1. **Descarga** el archivo `OfiGremio_PRO_v4.2.1_Linux.zip` y descomprímelo.
-2. Abre una terminal en esa carpeta y ejecuta:  
-   ```bash
-   bash 1_instalar_primera_vez.sh
-   ```
-   *(Crea el entorno virtual e instala el lanzador de escritorio).*
-3. Para el uso diario, haz clic en el lanzador de tu Escritorio o ejecuta:  
-   ```bash
-   bash 2_abrir_ofigremio.sh
-   ```
+No publiques bases de datos, documentos de clientes, licencias ni credenciales en
+issues o archivos de este repositorio. La migración de una instalación local debe
+planificarse preservando sus datos y relaciones; copiar un ZIP no la realiza.
 
----
+## Estado del producto
 
-## 🌟 Características Principales
-
-* ⚡ **Presupuestos y Partes de Trabajo en <30 Segundos:** Confección ultrarrápida in-situ, firma digital manuscrita en pantalla y foto de evidencia adjunta al PDF.
-* 📶 **100% Operativo Sin Conexión (Offline):** Trabaja con total fluidez en sótanos, garajes y zonas sin cobertura. Tus datos nunca se bloquean.
-* 🛡️ **Privacidad y Soberanía Total (Local-First):** Tu base de datos reside en tu propio ordenador (0% datos fiscales en servidores ajenos). Copias de seguridad automáticas en cada sesión.
-* 🏛️ **Fiscalidad Española Completa:** Numeración oficial de presupuestos (`PRE-YYYY-XXXX`) y facturas correlativas (`FAC-YYYY-XXXX`), Modelo 303 en vivo, retenciones de IRPF y exportación a Excel.
-* 📱 **Conexión Móvil en Obra:** Conecta tu móvil o tablet en local mediante código QR para rellenar partes y firmar directamente en la obra.
-
----
-
-## 💳 Modelo de Suscripción Oficial (15 €/mes)
-
-OfiGremio PRO funciona bajo una suscripción recurrente mensual accesible de **15,00 € / mes**:
-- **Sin permanencia ni ataduras:** Puedes cancelar en cualquier momento en 1 clic desde los Ajustes de la aplicación.
-- **Activación automática en 3 segundos:** Al arrancar el programa por primera vez, pulsa *"💳 Suscribirme con Tarjeta (15 € / mes)"* en la pasarela oficial de Stripe.
-- **Sincronización silenciosa:** Las renovaciones se aplican en segundo plano sin códigos manuales ni interrupciones.
-
----
-
-## 📞 Soporte y Contacto
-Para dudas de instalación, soporte técnico o asistencia personalizada:
-- **Web Oficial:** [OfiGremio PRO](https://github.com/pabloacebron10-droid/ofigremio-descarga)
-- **Email:** contacto@ofigremio.es
-
+Este repositorio es un punto público de acceso y documentación. Las versiones
+locales antiguas no certifican el estado de la aplicación cloud. La validación
+fiscal remota, los pagos, las funciones offline y cualquier nueva distribución
+requieren sus comprobaciones específicas; no se anuncia homologación fiscal ni
+activación de pagos garantizada desde esta página.
